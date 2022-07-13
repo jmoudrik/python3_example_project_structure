@@ -15,6 +15,8 @@
 		- `notebooks/example_ntb.py`
 	- tests
 		- `python3 tests/test_compute.py`
+	- `main.py`
+		- `python3 main.py`
 	
 In `pycharm`, running the entry points (e.g. `tests/test_compute.py`)
 	does not require `context.py` because `pycharm` modifies module search
